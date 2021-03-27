@@ -1,6 +1,6 @@
 
 public class ejercicio4{
-    public int hijasImprimir (int n){
+    public int hojasImprimir (int n){
         int res=n/2;
         return res;
     }
